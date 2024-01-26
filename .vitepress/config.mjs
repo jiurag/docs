@@ -15,18 +15,18 @@ export default defineConfig({
     nav: [
       { text: '主页', items:[
         {text:'首页',link:'/'},
-        {text:'云崽环境部署',link:'/markdown-examples'},
-        {text:'部署云崽',link:'/api-examples'},
+        {text:'云崽环境部署',link:'/centos'},
+        {text:'部署云崽',link:'/install'},
       ] },
-      { text: '文档', link: '/markdown-examples' }
+      { text: '文档', link: '/centos' }
     ],
 
        sidebar: [
          {
            text: '文档',
            items: [
-             { text: '云崽所需环境', link: '/markdown-examples' },
-             { text: '部署云崽', link: '/api-examples' }
+             { text: '云崽所需环境', link: '/centos' },
+             { text: '部署云崽', link: '/install' }
            ]
          }
        ],
