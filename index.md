@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "文明之间の交流"
-  text: "这是莫名其妙的主页"
+  name: "Hexokina"
+  text: "为心中所想，渡眼前迷途"
   tagline: 这里放一些神秘代码
   actions:
     - theme: alt
