@@ -4,7 +4,7 @@
 
 目前最常用的就是[kokomi](https://gitee.com/yoimiya-kokomi/Miao-Yunzai)大佬维护的[Miao-Yunzai](https://gitee.com/yoimiya-kokomi/Miao-Yunzai)
 
-还有就是比较懒人的[时雨◎星空](https://gitee.com/TimeRainStarSky/TRSS_Script)大佬的一键部署脚本[TRSS](trss.me)
+还有就是比较懒人的[时雨◎星空](https://gitee.com/TimeRainStarSky/TRSS_Script)大佬的一键部署脚本[TRSS](https://trss.me)
 
 ::: tip 安装提示
 **问:Miao-Yunzai和TRSS-Yunzai有什么区别？**
