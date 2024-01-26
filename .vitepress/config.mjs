@@ -3,7 +3,7 @@ import { set_sidebar } from "./utils/auto-sidebar.mjs"
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/docs/",
+//  base: "/docs/",
   title: "文明之间の交流",
   description: "这是一个不明所以的主页",
   themeConfig: {
