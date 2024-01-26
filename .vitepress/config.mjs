@@ -9,7 +9,7 @@ export default defineConfig({
   themeConfig: {
     outlineTitle: "目录",
     outline: [2,6],
-     sidebar: false, // 关闭侧边栏
+  //   sidebar: false, // 关闭侧边栏
     //  aside: "left", // 设置右侧侧边栏在左侧显示
     // https://vitepress.dev/reference/default-theme-config
     nav: [
