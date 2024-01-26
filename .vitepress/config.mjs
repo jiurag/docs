@@ -4,8 +4,8 @@ import { set_sidebar } from "./utils/auto-sidebar.mjs"
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 //  base: "/docs/",
-  title: "文明之间の交流",
-  description: "这是一个不明所以的主页",
+  title: "Ⓗⓔⓧⓞⓚⓘⓝⓐの回忆",
+  description: "为心中所想，闯当前迷途",
   themeConfig: {
     outlineTitle: "目录",
     outline: [1,6],
