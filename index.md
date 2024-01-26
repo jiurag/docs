@@ -12,7 +12,7 @@ hero:
       link: /
     - theme: brand
       text: Play
-      link: /api-examples
+      link: /centos
 
 features:
   - title: 云崽所需环境
