@@ -9,7 +9,6 @@ export default defineConfig({
   themeConfig: {
     outlineTitle: "目录",
     outline: [1,6],
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', items:[
         {text:'首页',link:'/'},
