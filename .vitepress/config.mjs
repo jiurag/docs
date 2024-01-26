@@ -8,9 +8,7 @@ export default defineConfig({
   description: "这是一个不明所以的主页",
   themeConfig: {
     outlineTitle: "目录",
-    outline: [2,6],
-  //   sidebar: false, // 关闭侧边栏
-    //  aside: "left", // 设置右侧侧边栏在左侧显示
+    outline: [1,6],
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', items:[
