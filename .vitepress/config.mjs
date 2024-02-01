@@ -4,7 +4,7 @@ import { set_sidebar } from "./utils/auto-sidebar.mjs"
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 //  base: "/docs/",
-  title: "HekinaのBlog",
+  title: "HexokinaのBlog",
   description: "为心中所想，闯当前迷途",
   themeConfig: {
     outlineTitle: "目录",
