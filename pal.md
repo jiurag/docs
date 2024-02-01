@@ -304,8 +304,9 @@ bash PalServer.sh
 ````
 Ctrl+A+D将窗口切换到后台运行
 
+**还原窗口**
+
 ````
-#还原窗口
 screen -r pal
 或
 screen -ls
