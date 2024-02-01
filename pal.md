@@ -297,8 +297,8 @@ apt install screen -y
 ````
 #创建Screen窗口，比如pal
 screen -S pal
+#运行启动脚本
 cd /home/steam/Steam/steamapps/common/PalServer
-运行启动脚本
 bash PalServer.sh
 
 ````
