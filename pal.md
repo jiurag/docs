@@ -255,7 +255,7 @@ sudo vim /etc/systemd/system/palserver.service
 
 ````
 
-填入以下
+填入以下文本
 
 ````
 [Unit]
@@ -271,6 +271,7 @@ Restart=always
 WantedBy=default.target
 
 ````
+按ESC+Shift+:之后输入wq保存退出
 
 设置自动启动
 
