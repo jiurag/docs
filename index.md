@@ -14,6 +14,13 @@ hero:
       text: Play
       link: /centos
 
+
+features:
+  - title: github镜像
+    details: 
+    ```
+    https://mirror.ghproxy.com/
+    ```
 # features:
 #   - title: 云崽所需环境
 #     details: 云崽机器人安装一些所需的环境
