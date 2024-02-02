@@ -20,7 +20,7 @@ hero:
 features:
   - title: 幻兽帕鲁开服
     details: 使用Ubuntu部署自己的幻兽帕鲁服务器
-    link: /install
+    link: /pal
     linkText: 部署
   - title: Miao-Yunzai
     details: 部署自己的原神查询机器人
