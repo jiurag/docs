@@ -317,5 +317,16 @@ screen -r id
 
 
 <center>
-	<iframe src="https://www.bilibili.com/video/BV1NQ4y1c7dy?vd_source=313268a717ee08e9b48d499cf978bc25"></iframe>
+<iframe 
+src="" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
+<!-- 相当于是子网页 -->
+<!-- B站分享链接提供 -->
 </center>
