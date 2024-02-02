@@ -8,18 +8,23 @@ hero:
   tagline: 这里放一些神秘代码
   actions:
     - theme: alt
-      text: 这啥
+      text: (˵¯͒〰¯͒˵)
       link: /
     - theme: brand
       text: Play
-      link: /centos
+      link: /pal
 
-# features:
-#   - title: 云崽所需环境
-#     details: 云崽机器人安装一些所需的环境
-#   - title: 搭建云崽
-#     details: 搭建完环境之后，一步一步的安装云崽
-#   - title: 云崽机器人插件
-#     details: 根据喜好安装云崽的一些插件
+
+
+
+features:
+  - title: 幻兽帕鲁开服
+    details: 使用Ubuntu部署自己的幻兽帕鲁服务器
+    link: /install
+    linkText: 部署
+  - title: Miao-Yunzai
+    details: 部署自己的原神查询机器人
+    link: /install
+    linkText: 部署
 ---
 
