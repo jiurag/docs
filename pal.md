@@ -77,6 +77,13 @@ cp ~/Steam/steamapps/common/Steamworks\ SDK\ Redist/linux64/steamclient.so ~/.st
 
 ## 修改配置文件
 
+::: details 提示无vim命令  自行安装vim
+
+````
+apt install vim -y
+````
+:::
+
 ````
 # 进入PalServer目录
 cd /home/steam/Steam/steamapps/common/PalServer
@@ -241,13 +248,6 @@ PublicIP=""  #服务器IP(一般填127.0.0.1即可)
 
 :::: details 设置开机自启
 
-::: details 提示无vim命令  自行安装vim
-
-````
-apt install vim -y
-````
-:::
-
 编辑自启文件
 
 ````
@@ -314,3 +314,8 @@ screen -ls
 screen -r id
 ````
 :::::
+
+
+<center>
+	<iframe src="https://www.bilibili.com/video/BV1NQ4y1c7dy?vd_source=313268a717ee08e9b48d499cf978bc25"></iframe>
+</center>
