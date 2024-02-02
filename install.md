@@ -1,6 +1,6 @@
 # 部署云崽[Centos]
 
-[点我跳转：部署所需环境](./centos.md#环境)
+[点我跳转：部署所需环境](./centos) （TRSS脚本无需此步骤）
 
 正式开始搭建Yunzai_Bot
 

@@ -1,6 +1,8 @@
 # 搭建环境·Centos 7
 
-这里是搭建云崽所需的环境
+这里是部署云崽所需的环境(已部署请跳过)
+
+[点我跳转:前往部署Miao-Yunzai](./install)
 
 ## 安装Nodejs
 
@@ -133,4 +135,3 @@ sudo yum install https://packages.endpointdev.com/rhel/7/os/x86_64/endpoint-repo
 ````
 sudo yum install git
 ````
-## 至此，云崽机器人所需的环境安装完成。
