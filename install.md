@@ -1,5 +1,7 @@
 # 部署云崽[Centos]
 
+[点我跳转：部署所需环境](./centos.md#环境)
+
 正式开始搭建Yunzai_Bot
 
 目前最常用的就是[kokomi](https://gitee.com/yoimiya-kokomi/Miao-Yunzai)大佬维护的[Miao-Yunzai](https://gitee.com/yoimiya-kokomi/Miao-Yunzai)
@@ -11,6 +13,20 @@
 
 答:大体上区别不大。如果只玩QQ群聊机器人，那么推荐Miao-Yunzai；如果追求其他的协议端，如频道、kook、米游社大别墅、微信等，更推荐TRSS-Yunzai，接口更足。
 :::
+
+> [!TIP]使用mirror代理github
+>````
+>https://mirror.ghproxy.com/
+>````
+
+如
+
+``` ts{1-3}
+#初始
+git clone --depth=1 https://github.com/yoimiya-kokomi/Miao-Yunzai.git// [!code --]
+#mirror代理
+git clone --depth=1 https://mirror.ghproxy.com/https://github.com/yoimiya-kokomi/Miao-Yunzai.git// [!code ++]
+```
 
 ## 安装Miao-Yunzai
 
