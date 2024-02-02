@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Jiurag"
+  name: "Hekina"
   text: "为心中所想，渡眼前迷途"
-  tagline: 这里放一些神秘代码
+  tagline: ٩(๑•̀ω•́๑)۶
   actions:
     - theme: alt
       text: (˵¯͒〰¯͒˵)
