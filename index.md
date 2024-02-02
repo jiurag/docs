@@ -14,12 +14,12 @@ hero:
       text: Play
       link: /centos
 
-features:
-  - title: 云崽所需环境
-    details: 云崽机器人安装一些所需的环境
-  - title: 搭建云崽
-    details: 搭建完环境之后，一步一步的安装云崽
-  - title: 云崽机器人插件
-    details: 根据喜好安装云崽的一些插件
+# features:
+#   - title: 云崽所需环境
+#     details: 云崽机器人安装一些所需的环境
+#   - title: 搭建云崽
+#     details: 搭建完环境之后，一步一步的安装云崽
+#   - title: 云崽机器人插件
+#     details: 根据喜好安装云崽的一些插件
 ---
 
