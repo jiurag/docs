@@ -4,7 +4,7 @@ import { set_sidebar } from "./utils/auto-sidebar.mjs"
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
 //  base: "/docs/",
-  title: "HexokinaのBlog",
+  title: "JiuragのBlog",
   description: "为心中所想，闯当前迷途",
   themeConfig: {
     outlineTitle: "目录",
@@ -32,7 +32,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ],
     footer:{
-      copyright:"Copyright@ 2023 Hexokina"
+      copyright:"Copyright@ 2023 Jiurag"
     },
        // 设置搜索框的样式
        search: {

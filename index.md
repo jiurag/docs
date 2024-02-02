@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Hexokina"
+  name: "Jiurag"
   text: "为心中所想，渡眼前迷途"
   tagline: 这里放一些神秘代码
   actions:
