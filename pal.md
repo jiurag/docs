@@ -45,7 +45,7 @@ cd ~/Steam
 curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz" | tar zxvf -
 ````
 
-## 下载服务器
+## 下载服务端
 
 ````
 # 进入steam目录
