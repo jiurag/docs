@@ -10,12 +10,11 @@ export default defineConfig({
     outlineTitle: "目录",
     outline: [1,6],
     nav: [
-      { text: '主页', items:[
-        {text:'首页',link:'/'},
+      { text: '主页', link:'/'},
+      { text: '文档', items:[
         {text:'幻兽帕鲁开服',link:'/pal'},
-        {text:'MC时刻',link:'/Minecraft'}
-      ] },
-      { text: '文档', link: '/pal' }
+        {text:'云崽',link:'/install'}
+      ] }
     ],
 
        sidebar: [

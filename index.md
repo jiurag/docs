@@ -26,6 +26,10 @@ features:
   #   details: 部署自己的原神查询机器人
   #   link: /install
   #   linkText: 点我开始
+  - title: MC时刻
+    details: 记录游玩Minecraft
+    link: /Minecraft
+    linkText: 点我开始
 ---
 
 
