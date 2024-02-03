@@ -12,7 +12,8 @@ export default defineConfig({
     nav: [
       { text: '主页', items:[
         {text:'首页',link:'/'},
-        {text:'幻兽帕鲁开服',link:'/pal'}
+        {text:'幻兽帕鲁开服',link:'/pal'},
+        {text:'MC时刻',link:'/Minecraft'}
       ] },
       { text: '文档', link: '/pal' }
     ],

@@ -314,19 +314,3 @@ screen -ls
 screen -r id
 ````
 :::::
-
-
-<center>
-<iframe 
-src="https://upos-sz-mirror08c.bilivideo.com/upgcxcode/82/52/753325282/753325282-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1706967153&gen=playurlv2&os=08cbv&oi=730790904&trid=5018c5ae2577433b8be75495f5a5e8d3h&mid=0&platform=html5&upsig=e9e4a075196e8a71a2aa6e12bdf433f3&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&f=h_0_0&bw=52887&logo=80000000" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
-<!-- 相当于是子网页 -->
-<!-- B站分享链接提供 -->
-</center>

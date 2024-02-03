@@ -22,10 +22,10 @@ features:
     details: 使用Ubuntu部署自己的幻兽帕鲁服务器
     link: /pal
     linkText: 点我开始
-  - title: Miao-Yunzai
-    details: 部署自己的原神查询机器人
-    link: /install
-    linkText: 点我开始
+  # - title: Miao-Yunzai
+  #   details: 部署自己的原神查询机器人
+  #   link: /install
+  #   linkText: 点我开始
 ---
 
 
