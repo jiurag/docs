@@ -1,6 +1,8 @@
-# 波浪菌
+# <center>波浪菌</center>
 
+<center>
 玄理2整合包多人生存
+</center>
 
 <center>
 <iframe 
