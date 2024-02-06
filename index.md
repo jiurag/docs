@@ -30,7 +30,7 @@ features:
     details: 记录游玩Minecraft
     link: /Minecraft
     linkText: 点我开始
-  - title: Qsign API
+  - title: Qsign
     details: 部署自己的签名API
     link: /qsignx
     linkText: 点我开始
