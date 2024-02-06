@@ -23,7 +23,7 @@
 >https://mirror.ghproxy.com/
 >````
 
-如
+演示:
 
 ``` ts{1-3}
 #初始
