@@ -87,9 +87,11 @@ http://127.0.0.1:8978?key=qsign
 http://公网IP:8978?key=qsign
 ````
 ::: tip 提示
+
 如果在浏览器用无法访问http://IP:8978
 
 请放行8978端口
+
 :::
 
 ::::: details 使用Screen保持后台运行
