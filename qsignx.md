@@ -35,11 +35,11 @@ java -version
 
 ```
 #Github
-
+git clone https://github.com/jiurag/qsignx /qsign
 
 #Github拉取失败使用代理拉取
 
 
 #mirror代理
-
+git clone https://mirror.ghproxy.com/https://github.com/jiurag/qsignx /qsign
 ```
