@@ -67,3 +67,22 @@ git clone https://github.com/jiurag/qsignx
 git clone https://mirror.ghproxy.com/https://github.com/jiurag/qsignx
 ```
 
+## 启动Qsign
+
+```
+cd qsignx && bash auto.sh
+```
+
+## 使用API
+
+**本地**
+
+```
+http://127.0.0.1:8978?key=qsign
+```
+
+**公网**
+
+````
+http://公网IP:8978?key=qsign
+````
