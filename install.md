@@ -2,6 +2,10 @@
 
 [点我跳转：部署所需环境](./centos) （TRSS脚本无需此步骤）
 
+[点我跳转：自建签名API](./qsignx)
+
+版本为8.9.78
+
 正式开始搭建Yunzai_Bot
 
 目前最常用的就是[kokomi](https://gitee.com/yoimiya-kokomi/Miao-Yunzai)维护的[Miao-Yunzai](https://gitee.com/yoimiya-kokomi/Miao-Yunzai)
@@ -81,14 +85,6 @@ pnpm run log
 ````
 
 ### 到这，喵崽已经部署完成了，第一次启动先node app再根据提示设置机器人账号等等操作，
-
-:::: tip 提示输入Qsign签名服务器
-
-[点我跳转：自建签名API](./qsignx)
-
-版本均为8.9.78
-::::
-
 
 :::: details 常见问题
 
