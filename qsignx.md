@@ -111,7 +111,7 @@ apt install screen -y
 screen -S qsign
 cd ~
 #运行启动脚本
-cd qsignx && bash auto
+cd qsignx && bash auto.sh
 
 ````
 Ctrl+A+D将窗口切换到后台运行
