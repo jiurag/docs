@@ -24,3 +24,8 @@ apt install openjdk-17-jdk
 ```
 
 :::
+
+```
+#查询java版本
+java -version
+```
