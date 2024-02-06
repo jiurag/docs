@@ -86,3 +86,41 @@ http://127.0.0.1:8978?key=qsign
 ````
 http://公网IP:8978?key=qsign
 ````
+
+
+::::: details 使用Screen保持后台运行
+
+**安装Screen**
+
+::: code-group
+
+``` [centos]
+yum install screen -y
+```
+
+``` [Ubuntu]
+apt install screen -y
+```
+
+:::
+
+设置后台运行
+
+````
+#创建Screen窗口，比如qsign
+screen -S qsign
+#运行启动脚本
+cd qsignx && bash auto
+
+````
+Ctrl+A+D将窗口切换到后台运行
+
+**还原窗口**
+
+````
+screen -r qsign
+或
+screen -ls
+screen -r id
+````
+:::::
