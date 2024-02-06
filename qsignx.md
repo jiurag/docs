@@ -6,7 +6,7 @@
 
 ::: code-group
 
-```sh [centos]
+``` [centos]
 #检查yum中是否有jdk1.8的安装包
 yum list java-1.8*
 #安装
@@ -19,9 +19,16 @@ OpenJDK Runtime Environment (build 1.8.0_222-b10)
 OpenJDK 64-Bit Server VM (build 25.222-b10, mixed mode)
 ```
 
-```sh [Ubuntu]
-#
-
+``` [Ubuntu]
+#任选一种版本安装
+#安装jdk8
+apt install openjdk-8-jdk
+#安装jdk11
+apt install openjdk-11-jdk
+#安装jdk17
+apt install openjdk-17-jdk
+#查询版本
+java -version
 ```
 
 :::
