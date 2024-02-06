@@ -14,7 +14,7 @@ export default defineConfig({
       { text: '文档', items:[
         {text:'幻兽帕鲁开服',link:'/pal'},
         {text:'Qsign API',link:'/qsignx'},
-        {text:'原神查询机器人',link:'/install'}
+        {text:'原神查询机器人',link:'/Yunzai'}
       ] }
     ],
 
@@ -24,7 +24,7 @@ export default defineConfig({
            items: [
              {text:'幻兽帕鲁开服',link:'/pal'},
              {text:'Qsign API',link:'/qsignx'},
-             {text:'原神查询机器人',link:'/install'}
+             {text:'原神查询机器人',link:'/Yunzai'}
            ]
          }
        ],
