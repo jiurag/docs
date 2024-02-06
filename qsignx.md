@@ -102,7 +102,7 @@ yum install screen -y
 apt install screen -y
 ```
 
-:::::
+:::
 
 设置后台运行
 
