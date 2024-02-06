@@ -34,6 +34,10 @@ features:
     details: 部署自己的签名API
     link: /qsignx
     linkText: 点我开始
+  - title: 原神查询机器人
+    details: 部署属于自己的原神机器人
+    link: /install
+    linkText: 点我开始
 ---
 
 
