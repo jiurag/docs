@@ -84,7 +84,7 @@ pnpm run log
 
 :::: tip 提示输入Qsign签名服务器
 
-推荐使用[公共签名](https://qsign.yunzai.icu/)
+[点我跳转：自建签名API](./qsignx)
 
 版本均为8.9.78
 ::::
