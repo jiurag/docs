@@ -31,7 +31,7 @@ apt install openjdk-17-jdk
 java -version
 ```
 
-#拉取qsign文件
+## 拉取qsign文件
 
 :::: details 安装git,已安装略过
 
