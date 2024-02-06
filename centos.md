@@ -2,7 +2,7 @@
 
 这里是部署云崽所需的环境(已部署请跳过)
 
-[点我跳转:前往部署Miao-Yunzai](./install)
+[点我跳转:前往部署Miao-Yunzai](./Yunzai)
 
 ## 安装Nodejs
 

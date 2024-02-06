@@ -36,7 +36,7 @@ features:
     linkText: 点我开始
   - title: 原神查询机器人
     details: 部署属于自己的原神机器人
-    link: /install
+    link: /Yunzai
     linkText: 点我开始
 ---
 
