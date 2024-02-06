@@ -23,7 +23,7 @@ export default defineConfig({
            text: '文档',
            items: [
              {text:'幻兽帕鲁开服',link:'/pal'},
-             {text:'Qsign部署',link:'/qsignx'},
+             {text:'Qsign API',link:'/qsignx'},
              {text:'原神查询机器人',link:'/install'}
            ]
          }
