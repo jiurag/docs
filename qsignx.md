@@ -30,3 +30,10 @@ apt install openjdk-17-jdk
 ```
 java -version
 ```
+
+#拉取qsign文件
+
+```
+#github
+
+```
