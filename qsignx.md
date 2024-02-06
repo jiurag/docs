@@ -109,6 +109,7 @@ apt install screen -y
 ````
 #创建Screen窗口，比如qsign
 screen -S qsign
+cd ~
 #运行启动脚本
 cd qsignx && bash auto
 
