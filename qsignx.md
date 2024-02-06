@@ -4,3 +4,16 @@
 
 ## 安装jdk环境
 
+::: code-group
+
+```sh [centos]
+#
+
+```
+
+```sh [Ubuntu]
+#
+
+```
+
+:::
