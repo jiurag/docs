@@ -34,6 +34,12 @@ java -version
 #拉取qsign文件
 
 ```
-#github
+#Github
+
+
+#Github拉取失败使用代理拉取
+
+
+#mirror代理
 
 ```
