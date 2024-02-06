@@ -21,7 +21,7 @@ export default defineConfig({
          {
            text: '文档',
            items: [
-             {text:'幻兽帕鲁开服',link:'/pal'}，
+             {text:'幻兽帕鲁开服',link:'/pal'},
              {text:'Qsign部署',link:'/pal'}
            ]
          }
