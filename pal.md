@@ -1,6 +1,6 @@
-# 幻兽帕鲁开服教程·Ubuntu篇
+# <center>幻兽帕鲁开服教程·Ubuntu</center>
 
-教程演示版本为Ubuntu 22.04.3 TLS
+<center>教程演示版本为Ubuntu 22.04.3 TLS</center>
 
 ## 创建用户
 

@@ -13,6 +13,7 @@ export default defineConfig({
       { text: '主页', link:'/'},
       { text: '文档', items:[
         {text:'幻兽帕鲁开服',link:'/pal'},
+        {text:'幻兽帕鲁如何安装MOD',link:'/PalMod'},
         {text:'Qsign API',link:'/qsignx'},
         {text:'原神查询机器人',link:'/Yunzai'}
       ] }
@@ -23,6 +24,7 @@ export default defineConfig({
            text: '文档',
            items: [
              {text:'幻兽帕鲁开服',link:'/pal'},
+             {text:'幻兽帕鲁如何安装MOD',link:'/PalMod'},
              {text:'Qsign API',link:'/qsignx'},
              {text:'原神查询机器人',link:'/Yunzai'}
            ]

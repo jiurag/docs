@@ -1,4 +1,4 @@
-# 部署云崽[Centos]
+# <center>部署云崽·Centos</center>
 
 [点我跳转：部署所需环境](./centos) （TRSS脚本无需此步骤）
 
