@@ -5,7 +5,7 @@
 **1.安装UE4SS引擎**
 [前往下载](https://github.com/UE4SS-RE/RE-UE4SS/releases)
 
-将引擎文件复制到"~\Palworld\Pal\Binaries\Win64\"目录下
+**将引擎文件复制到"~\Palworld\Pal\Binaries\Win64\"目录下**
 
 如图:
 ![1](https://image.hexokina.cn/file/06c50cad1f994072dc002.png)
@@ -31,7 +31,7 @@
 ![6](https://image.hexokina.cn/file/295178197a12b9b170cc4.png)
 ![7](https://image.hexokina.cn/file/123bff1c5244942fd5148.png)
 
-**在"mod in mods.txt"中新添加"MapUnlocker : 1"的设置
+**在"mod in mods.txt"中新添加"MapUnlocker : 1"的设置**
 
 ![8](https://image.hexokina.cn/file/5e854440ed00356dbae71.png)
 ![9](https://image.hexokina.cn/file/d4b52d9ec04d69bef42fb.png)
@@ -41,8 +41,11 @@
 **直接看效果**
 
 ::: tip 提示
+
 **这个模组只是去除了地图黑雾,传送点还是得自己探索去激活。**
+
 :::
+
 ![10](https://image.hexokina.cn/file/80eea622b78d65e71f597.png)
 
 
