@@ -8,7 +8,7 @@
 <iframe 
 src="//player.bilibili.com/player.html?aid=470128235&amp;cid=753325282&amp;page=1" 
 scrolling="no" 
-border="0" 
+border="0"
 frameborder="no" 
 framespacing="0" 
 allowfullscreen="true" 
