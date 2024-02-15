@@ -77,7 +77,7 @@ cp ~/Steam/steamapps/common/Steamworks\ SDK\ Redist/linux64/steamclient.so ~/.st
 
 ## 修改配置文件
 
-::: details 提示无vim命令  自行安装vim
+::: details 提示无vim命令  自行安装vim 或者使用nano也可以
 
 ````
 apt install vim -y
