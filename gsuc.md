@@ -65,7 +65,7 @@ poetry install
 :::
 
 
-**安装所需插件**
+**安装所需插件（可选）**
 
 ```
 cd gsuid_core
@@ -179,3 +179,9 @@ core_config.json文件位于gsuid_core/data/core_config.json
 
 ![1](https://image.hexokina.cn/file/f95f06fe7615ec13202b7.png)
 
+**可以在Miao-Yunzai后台看到连接成功**
+
+![2](https://image.hexokina.cn/file/e45f56a7bda88f37fabae.png)
+
+
+## 安装其他插件
