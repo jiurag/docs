@@ -91,29 +91,22 @@ pnpm run log
 
 ::: details **puppeteer相关问题**
 
-linux环境   
+Ubuntu 22.04
 ````
-puppeteer Chromium 启动中...
-Error: Failed to launch the browser process!
-````
-
-检查nodejs版本是否 ≥ V16
-
-````
-node -v
+puppeteer Chromium 启动失败
 ````
 
-大于v14可能缺库，安装这些
+可尝试在Miao-Yunzai根目录下输入
 
 ````
-yum install pango.x86_64 libXcomposite.x86_64 libXcursor.x86_64 libXdamage.x86_64 libXext.x86_64 libXi.x86_64 libXtst.x86_64 cups-libs.x86_64 libXScrnSaver.x86_64 libXrandr.x86_64 GConf2.x86_64 alsa-lib.x86_64 atk.x86_64 gtk3.x86_64 -y
+apt-get install ca-certificates fonts-liberation libasound2 libatk-bridge2.0-0 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgbm1 libgcc1 libglib2.0-0 libgtk-3-0 libnspr4 libnss3 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 lsb-release wget xdg-utils libxkbcommon0 -y
 ````
 :::
 
 
 ::: details 字体乱码
 ````
-yum groupinstall fonts -y
+apt-get install fonts-wqy-zenhei
 ````
 :::
 ::::
