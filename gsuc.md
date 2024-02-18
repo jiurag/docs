@@ -184,4 +184,4 @@ core_config.json文件位于gsuid_core/data/core_config.json
 ![2](https://image.hexokina.cn/file/e45f56a7bda88f37fabae.png)
 
 
-## 安装其他插件
+## 安装其他[插件](https://docs.sayu-bot.com/InstallPlugins/PluginsList.html)
