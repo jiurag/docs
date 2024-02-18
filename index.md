@@ -26,10 +26,6 @@ features:
     details: 幻兽帕鲁如何添加自己喜欢的MOD
     link: /PalMod
     linkText: 点我开始
-  # - title: Miao-Yunzai
-  #   details: 部署自己的原神查询机器人
-  #   link: /install
-  #   linkText: 点我开始
   - title: MC时刻
     details: 记录游玩Minecraft
     link: /Minecraft
@@ -40,7 +36,11 @@ features:
     linkText: 点我开始
   - title: 原神查询机器人
     details: 部署属于自己的原神机器人
-    link: /Yunzai
+    link: /gsbot
+    linkText: 点我开始
+  - title: 早柚核心-GsCore
+    details: 使用喵崽对接GsCore
+    link: /GsCore
     linkText: 点我开始
 ---
 

@@ -93,7 +93,7 @@ pnpm run log
 
 Ubuntu 22.04
 ````
-puppeteer Chromium 启动失败
+puppeteer Chromium 启动失败....
 ````
 
 可尝试在Miao-Yunzai根目录下输入

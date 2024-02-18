@@ -1,4 +1,4 @@
-# <center>Miao-Yunzai对接gsuid_core</center>
+# <center>Miao-Yunzai对接GsCore</center>
 
 <center>服务器系统：Ubuntu 22.04</center>
 
@@ -36,7 +36,7 @@ pip install pdm
 pdm init
 ```
 
-## 开始安装Gsuid_core
+## 开始安装GsCore
 
 **拉取本体文件**
 
