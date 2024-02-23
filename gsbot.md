@@ -1,6 +1,10 @@
 # <center>部署云崽·Ubuntu 22.04</center>
 
-**环境**:nodejs ≥ 16、Redis
+**环境**:node ≥ 16、Redis
+
+:::tip 提醒
+有部分插件需要node v17版本才能运行，所以建议直接安装node v17
+:::
 
 **QQ签名API**:[自建签名API](./qsignx) 或者使用公共签名API(自行查找)
 
