@@ -62,3 +62,25 @@ pnpm uninstall puppeteer
 pnpm install puppeteer@19.7.3 -w
 node ./node_modules/puppeteer/install.js
 ```
+
+## Ubuntu 22.04 关闭Ipv6
+
+**临时修改**
+
+```sh
+sudo sysctl -w net.ipv6.conf.all.disable_ipv6=1
+sudo sysctl -w net.ipv6.conf.default.disable_ipv6=1
+sudo sysctl -w net.ipv6.conf.lo.disable_ipv6=1
+```
+
+**永久修改**
+
+```sh
+vim /etc/sysctl.conf
+#将以下条目添加
+net.ipv6.conf.all.disable_ipv6=1
+net.ipv6.conf.default.disable_ipv6=1
+net.ipv6.conf.lo.disable_ipv6=1
+#应用设置
+sudo sysctl -p
+```
