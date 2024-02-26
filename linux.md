@@ -84,3 +84,17 @@ net.ipv6.conf.lo.disable_ipv6=1
 #应用设置
 sudo sysctl -p
 ```
+
+### 重启之后 IPv6 仍然被启用
+
+**创建文件 /etc/rc.local 并加入以下内容**
+
+```sh
+#!/bin/bash
+# /etc/rc.local
+/etc/sysctl.d
+/etc/init.d/procps restart
+exit 0
+#chmod 命令 来更改文件权限
+sudo chmod 755 /etc/rc.local
+```
