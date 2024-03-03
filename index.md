@@ -28,7 +28,7 @@ features:
     linkText: 点我开始
   - title: 幻兽帕鲁MOD推荐
     details: 幻兽帕鲁实用性模组推荐
-    link: /modlist
+    link: /Modlist
     linkText: 点我开始
   - title: MC时刻
     details: 记录游玩Minecraft
