@@ -26,6 +26,10 @@ features:
     details: 幻兽帕鲁如何添加自己喜欢的MOD
     link: /PalMod
     linkText: 点我开始
+  - title: 幻兽帕鲁MOD推荐
+    details: 幻兽帕鲁实用性模组推荐
+    link: /modlist
+    linkText: 点我开始
   - title: MC时刻
     details: 记录游玩Minecraft
     link: /Minecraft
