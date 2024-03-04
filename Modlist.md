@@ -12,7 +12,7 @@
  **3**  | Pal 详细信息  | Pal Details (UI)               | 用于显示当前目标帕鲁的隐藏信息。包括 IV、掉落物品、被动/工作/战斗技能等。             | [点我下载](https://www.nexusmods.com/palworld/mods/489?tab=files) | 2024年2月27日 | 与Pal分析仪二选一   
  **4**  | Pal 分析仪   | Pal Analyzer                   | 需将准星对准在野生帕鲁上即可显示有关野生帕鲁的详细信息和统计信息。可在游戏中按<kbd>Shift</kbd>+<kbd>o</kbd>更改设置。 | [点我下载](https://www.nexusmods.com/palworld/mods/336?tab=files) | 2024年2月20日 | 与Pal 详细信息二选一 
  **5**  | 帕鲁个体值     | Pal IVs                        | 在帕鲁详情旁显示帕鲁当前理论个体值。                                  | [点我下载](https://www.nexusmods.com/palworld/mods/437?tab=files) | 2024年2月22日 |              
- **6**  | 地图全解锁     | MapUnlocker                    | 去除题图迷雾，传送点仍需手动点亮。                                   | [点我下载](https://www.nexusmods.com/palworld/mods/16?tab=files)  | 2024年2月6日  |              
+ **6**  | 地图全解锁     | MapUnlocker                    | 去除地图迷雾，传送点仍需手动点亮。                                   | [点我下载](https://www.nexusmods.com/palworld/mods/16?tab=files)  | 2024年2月6日  |              
  **7**  | 显示当前日期时间  | Display current date time      | 血量下方显示游戏时间和显示时间。                                    | [点我下载](https://www.nexusmods.com/palworld/mods/558?tab=files) | 2024年2月11日 |              
  **8**  | 自动跳过      | Automatically Skip Patch Notes | 自动跳过游戏公告。                                           | [点我下载](https://www.nexusmods.com/palworld/mods/432?tab=files) | 2024年2月5日  |              
 
