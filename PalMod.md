@@ -63,8 +63,8 @@
 
 
 
-::: tip 提示
-**角色等外观类MOD无需安装UE4SS引擎**
+::: tip 提醒
+**角色等外观类MOD无需安装UE4SS引擎，但部分外观Mod依旧需要安装UE4SS引擎。**
 :::
 
 **1.只需要在"~\Palworld\Pal\Content\Paks\"目录下新建一个"~mods"目录**
