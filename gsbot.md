@@ -19,6 +19,22 @@ curl -sL https://deb.nodesource.com/setup_16.x | sudo bash - && apt -y install n
 **弹出如下提示等待60秒安装完成即可**
 ![1](https://image.hexokina.cn/file/47f8e80b91cd574626af1.png)
 
+
+::: tip 提醒
+云崽最新部分插件需要node v18以上,咱们升个级
+:::
+
+```
+#安装管理模块n
+npm install -g n
+#如果报错， 则可以在刚刚的命令上家上 –force 即可 ，命令如下
+npm install -g n --force
+#升级到指定版本，如升级到node v20
+n v20.1.1
+#如果报错，则可以在刚刚的命令上家上 –force 即可 ，命令如下
+n v20.1.1 --force
+```
+
 **查询版本**
 ```
 root@bot:~# node -v
