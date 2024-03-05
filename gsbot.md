@@ -3,16 +3,29 @@
 **环境**:node ≥ 16、Redis
 
 :::tip 提醒
-有部分插件需要node v17版本才能运行，所以建议直接安装node v17
+有部分插件需要node v18版本才能运行，所以建议直接安装node v18
 :::
 
 **QQ签名API**:[自建签名API](./qsignx) 或者使用公共签名API(自行查找)
 
 ## 安装环境
 
-### 安装Node v16
+### 安装Node
+
+
+::: details **全新安装node v18**
 
 ```
+#安装 Node.js 的 PPA 存储库
+curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+#使用apt命令安装 Node.js 18 版本
+sudo apt-get install -y nodejs
+```
+:::
+
+::: details **旧版本进行升级**
+
+``` 
 cd ~
 curl -sL https://deb.nodesource.com/setup_16.x | sudo bash - && apt -y install nodejs
 ```
@@ -20,25 +33,27 @@ curl -sL https://deb.nodesource.com/setup_16.x | sudo bash - && apt -y install n
 ![1](https://image.hexokina.cn/file/47f8e80b91cd574626af1.png)
 
 
-::: tip 提醒
+:: tip 提醒
 云崽最新部分插件需要node v18以上,咱们升个级
-:::
+::
 
 ```
 #安装管理模块n
 npm install -g n
 #如果报错， 则可以在刚刚的命令上家上 –force 即可 ，命令如下
 npm install -g n --force
-#升级到指定版本，如升级到node v20
-n v20.1.1
+#升级到指定版本，如升级到node v18
+n v18.19.1
 #如果报错，则可以在刚刚的命令上家上 –force 即可 ，命令如下
-n v20.1.1 --force
+n v18.19.1 --force
 ```
+:::
+
 
 **查询版本**
 ```
 root@bot:~# node -v
-v16.20.2
+v18.19.1
 ```
 ### 安装redis
 
