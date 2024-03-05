@@ -33,10 +33,6 @@ curl -sL https://deb.nodesource.com/setup_16.x | sudo bash - && apt -y install n
 ![1](https://image.hexokina.cn/file/47f8e80b91cd574626af1.png)
 
 
-:: tip 提醒
-云崽最新部分插件需要node v18以上,咱们升个级
-::
-
 ```
 #安装管理模块n
 npm install -g n
