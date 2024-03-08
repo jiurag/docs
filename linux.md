@@ -98,3 +98,37 @@ exit 0
 #chmod 命令 来更改文件权限
 sudo chmod 755 /etc/rc.local
 ```
+
+## 安装1Panel
+
+**安装部署**
+
+::: code-group
+
+``` [RedHat / CentOS]
+curl -sSL https://resource.fit2cloud.com/1panel/package/quick_start.sh -o quick_start.sh && sh quick_start.sh
+```
+
+``` [ubuntu]
+curl -sSL https://resource.fit2cloud.com/1panel/package/quick_start.sh -o quick_start.sh && sudo bash quick_start.sh
+```
+
+``` [Debian]
+curl -sSL https://resource.fit2cloud.com/1panel/package/quick_start.sh -o quick_start.sh && bash quick_start.sh
+```
+
+:::
+
+::: tip 提醒
+如果忘记安全入口,可使用以下命令重新获取
+```
+1pctl user-info
+```
+:::
+
+## 安装MCSM
+
+**安装脚本只支持 Ubuntu/Centos/Debian/Arch 等主流 x86_64/ARM 架构的操作系统。**
+```
+sudo wget -qO- https://gitee.com/mcsmanager/script/raw/master/setup_cn.sh | bash
+```
