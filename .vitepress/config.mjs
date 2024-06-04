@@ -17,7 +17,8 @@ export default defineConfig({
         {text:'幻兽帕鲁实用性模组',link:'/Modlist'},
         {text:'Qsign API',link:'/qsignx'},
         {text:'喵崽-原神查询机器人',link:'/gsbot'},
-        {text:'喵崽对接GsCore',link:'/GsCore'}
+        {text:'喵崽对接GsCore',link:'/GsCore'},
+        {text:'Rocky Linux 8搭建vsftpd服务',link:'/Rocky-ftp'}
       ] }
     ],
 
@@ -30,7 +31,8 @@ export default defineConfig({
              {text:'幻兽帕鲁实用性模组',link:'/Modlist'},
              {text:'Qsign API',link:'/qsignx'},
              {text:'喵崽-原神查询机器人',link:'/gsbot'},
-             {text:'喵崽对接GsCore',link:'/GsCore'}
+             {text:'喵崽对接GsCore',link:'/GsCore'},
+             {text:'Rocky Linux 8搭建vsftpd服务',link:'/Rocky-ftp'}
            ]
          }
        ],
