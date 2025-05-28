@@ -34,18 +34,6 @@ features:
     details: 记录游玩Minecraft
     link: /Minecraft
     linkText: 点我开始
-  - title: Qsign
-    details: 部署自己的签名API
-    link: /qsignx
-    linkText: 点我开始
-  - title: 原神查询机器人
-    details: 部署属于自己的原神机器人
-    link: /gsbot
-    linkText: 点我开始
-  - title: 早柚核心-GsCore
-    details: 使用喵崽对接GsCore
-    link: /GsCore
-    linkText: 点我开始
 ---
 
 
