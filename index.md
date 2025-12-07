@@ -12,7 +12,7 @@ hero:
       link: /
     - theme: brand
       text: Play
-      link: /pal
+      link: /Win
 
 
 
@@ -34,11 +34,8 @@ features:
     details: 记录游玩Minecraft
     link: /Minecraft
     linkText: 点我开始
+  - title: Win小知识
+    details: 记录Win系统的一些小知识
+    link: /Win
+    linkText: 点我开始
 ---
-
-
-<iframe 
-    frameborder="no" border="0" marginwidth="0" 
-    marginheight="0" width=300 height=100
-    src="//music.163.com/outchain/player?type=2&id=28283406&auto=1&height=100">
-</iframe>
