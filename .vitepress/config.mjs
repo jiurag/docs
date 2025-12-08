@@ -6,7 +6,7 @@ export default defineConfig({
   head: [
     ['style', {}, `
       :root {
-        --vp-sidebar-width: 300px; /* 进一步调窄左侧文档栏 */
+        --vp-sidebar-width: 260px; /* 进一步调窄左侧文档栏 */
         --vp-layout-max-width: 98%;
       }
       
@@ -85,24 +85,30 @@ export default defineConfig({
     footer:{
       copyright:"Copyright@ 2023 Jiurag"
     },
+    // 修复搜索配置
     search: {
       provider: "local",
       options: {
-        translations: {
-          button: {
-            buttonText: "搜索文档",
-            buttonAriaLabel: "搜索文档",
-          },
-          modal: {
-            noResultsText: "无法找到相关结果",
-            resetButtonTitle: "清除查询条件",
-            footer: {
-              selectText: "选择",
-              navigateText: "切换",
-            },
-          },
-        },
-      },
+        locales: {
+          root: {
+            translations: {
+              button: {
+                buttonText: "搜索文档",
+                buttonAriaLabel: "搜索文档",
+              },
+              modal: {
+                noResultsText: "无法找到相关结果",
+                resetButtonTitle: "清除查询条件",
+                footer: {
+                  selectText: "选择",
+                  navigateText: "切换",
+                  closeText: "关闭" // 添加缺失的关闭按钮文本
+                }
+              }
+            }
+          }
+        }
+      }
     },
   }
 })
