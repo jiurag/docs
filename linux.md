@@ -1,4 +1,4 @@
-# <center>Linux相关</center>
+# <center>Linux基础知识</center>
 
 ## Ubuntu修改root登录
 

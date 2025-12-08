@@ -30,10 +30,6 @@ features:
     details: 幻兽帕鲁实用性模组推荐
     link: /Modlist
     linkText: 点我开始
-  - title: MC时刻
-    details: 记录游玩Minecraft
-    link: /Minecraft
-    linkText: 点我开始
   - title: Win小知识
     details: 记录Win系统的一些小知识
     link: /Win

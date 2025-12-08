@@ -63,6 +63,7 @@ export default defineConfig({
       ] },
       { text: '系统知识', items:[
         {text:'禁用Win系统更新',link:'/Win'},
+        {text:'Linux基础知识',link:'/linux'},
         {text:'Rocky Linux 8搭建vsftpd服务',link:'/Rocky-ftp'}
       ] },
       { text: '姬气人', items:[
