@@ -56,21 +56,25 @@ export default defineConfig({
     outline: [1,6],
     nav: [
       { text: '主页', link:'/'},
-      { text: '文档', items:[
-        {text:'禁用Win11系统更新',link:'/Win'},
+      { text: '游戏', items:[
         {text:'幻兽帕鲁开服',link:'/pal'},
         {text:'幻兽帕鲁如何安装MOD',link:'/PalMod'},
-        {text:'幻兽帕鲁实用性模组',link:'/Modlist'},
-        {text:'喵崽-原神查询机器人',link:'/gsbot'},
+        {text:'幻兽帕鲁实用性模组',link:'/Modlist'}
+      ] },
+      { text: '系统知识', items:[
+        {text:'禁用Win系统更新',link:'/Win'},
         {text:'Rocky Linux 8搭建vsftpd服务',link:'/Rocky-ftp'}
+      ] },
+      { text: '姬气人', items:[
+        {text:'喵崽-原神查询机器人',link:'/gsbot'}
       ] }
     ],
 
     sidebar: [
       {
-        text: '文档',
+        text: '推荐',
         items: [
-          {text:'禁用Win11系统更新',link:'/Win'},
+          {text:'禁用Win系统更新',link:'/Win'},
           {text:'幻兽帕鲁开服',link:'/pal'},
           {text:'幻兽帕鲁如何安装MOD',link:'/PalMod'},
           {text:'幻兽帕鲁实用性模组',link:'/Modlist'},
