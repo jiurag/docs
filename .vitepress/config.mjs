@@ -65,7 +65,12 @@ export default defineConfig({
         {text:'禁用Win系统更新',link:'/Win'},
         {text:'Linux基础知识',link:'/linux'},
         {text:'Rocky Linux 8搭建vsftpd服务',link:'/Rocky-ftp'}
-      ] },
+      ]
+      },
+      { text: '显卡驱动', items:[
+        {text:'NVIDIA 驱动程序收集列表',link:'/nv'}
+      ]
+      },
       { text: '姬气人', items:[
         {text:'喵崽-原神查询机器人',link:'/gsbot'}
       ] }
