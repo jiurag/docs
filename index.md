@@ -32,6 +32,6 @@ features:
     linkText: 点我开始
   - title: Win小知识
     details: 记录Win系统的一些小知识
-    link: /Win
+    link: /WinUP2
     linkText: 点我开始
 ---

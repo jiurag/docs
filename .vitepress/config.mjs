@@ -62,7 +62,8 @@ export default defineConfig({
         {text:'幻兽帕鲁实用性模组',link:'/Modlist'}
       ] },
       { text: '系统知识', items:[
-        {text:'禁用Win系统更新',link:'/Win'},
+        {text:'禁用Win系统更新<1>',link:'/WinUP1'},
+        {text:'禁用Win系统更新<2>',link:'/WinUP2'},
         {text:'Linux基础知识',link:'/linux'},
         {text:'Rocky Linux 8搭建vsftpd服务',link:'/Rocky-ftp'}
       ]
@@ -80,7 +81,8 @@ export default defineConfig({
       {
         text: '推荐',
         items: [
-          {text:'禁用Win系统更新',link:'/Win'},
+          {text:'禁用Win系统更新<1>',link:'/WinUP1'},
+          {text:'禁用Win系统更新<2>',link:'/WinUP2'},
           {text:'幻兽帕鲁开服',link:'/pal'},
           {text:'幻兽帕鲁如何安装MOD',link:'/PalMod'},
           {text:'幻兽帕鲁实用性模组',link:'/Modlist'},
