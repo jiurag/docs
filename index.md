@@ -12,7 +12,7 @@ hero:
       link: /
     - theme: brand
       text: Play
-      link: /Win
+      link: /WinUP2
 
 
 
