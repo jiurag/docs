@@ -56,6 +56,9 @@ export default defineConfig({
     outline: [1,6],
     nav: [
       { text: '主页', link:'/'},
+      { text: '滑雪', items:[
+        {text:'双板滑雪简概',link:'/SkiTutorial'}
+      ] },
       { text: '游戏', items:[
         {text:'幻兽帕鲁开服',link:'/pal'},
         {text:'幻兽帕鲁如何安装MOD',link:'/PalMod'},
