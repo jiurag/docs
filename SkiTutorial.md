@@ -1703,7 +1703,6 @@ S形滑行路径：
 
 🏆 推荐体系：全山全能型 + 自由式元素
 ✨ 代表产品：K2 Mindbender, Blizzard Bonafide
-https://wjxrc.no-mad-world.club/link/GSnXX0hNExRlWwWp?clash=3&extend=1
 ```
 
 ---
