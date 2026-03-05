@@ -8,8 +8,8 @@ hero:
   tagline: ٩(๑•̀ω•́๑)۶
   actions:
     - theme: alt
-      text: (˵¯͒〰¯͒˵)
-      link: /
+      text: AI
+      link: /openclaw
     - theme: brand
       text: Play
       link: /WinUP2
